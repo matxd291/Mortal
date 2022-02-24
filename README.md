@@ -7,5 +7,5 @@
 
 > # Disclaimer
 
-* *** Use This tool only for Educational Prupose
-* *** I decline all responsibility
+* *** Use This tool only for Educational Prupose ***
+* *** I decline all responsibility ***
