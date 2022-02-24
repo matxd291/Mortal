@@ -1,6 +1,5 @@
-# Mortal
 -----
-# Features
+<strong>Features</strong>
 
 * Search a Website in Your History even you deleted it
 * Save The Results in a File
